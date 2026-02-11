@@ -1,0 +1,189 @@
+[10-May-2022 10:22:34 America/New_York] PHP Warning:  include_once(schema.json): Failed to open stream: No such file or directory in /home4/westcor2/public_html/_/templates/head.php on line 31
+[10-May-2022 10:22:34 America/New_York] PHP Warning:  include_once(): Failed opening 'schema.json' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/westcor2/public_html/_/templates/head.php on line 31
+[10-May-2022 10:22:38 America/New_York] PHP Warning:  include_once(schema.json): Failed to open stream: No such file or directory in /home4/westcor2/public_html/_/templates/head.php on line 31
+[10-May-2022 10:22:38 America/New_York] PHP Warning:  include_once(): Failed opening 'schema.json' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/westcor2/public_html/_/templates/head.php on line 31
+[10-May-2022 10:23:00 America/New_York] PHP Warning:  include_once(schema.json): Failed to open stream: No such file or directory in /home4/westcor2/public_html/_/templates/head.php on line 31
+[10-May-2022 10:23:00 America/New_York] PHP Warning:  include_once(): Failed opening 'schema.json' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/westcor2/public_html/_/templates/head.php on line 31
+[10-May-2022 10:23:06 America/New_York] PHP Warning:  include_once(schema.json): Failed to open stream: No such file or directory in /home4/westcor2/public_html/_/templates/head.php on line 31
+[10-May-2022 10:23:06 America/New_York] PHP Warning:  include_once(): Failed opening 'schema.json' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/westcor2/public_html/_/templates/head.php on line 31
+[10-May-2022 10:24:05 America/New_York] PHP Warning:  include_once(/_/bin/schema.json): Failed to open stream: No such file or directory in /home4/westcor2/public_html/_/templates/head.php on line 31
+[10-May-2022 10:24:05 America/New_York] PHP Warning:  include_once(): Failed opening '/_/bin/schema.json' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/westcor2/public_html/_/templates/head.php on line 31
+[10-May-2022 10:24:15 America/New_York] PHP Warning:  include_once(/_/bin/schema.json): Failed to open stream: No such file or directory in /home4/westcor2/public_html/_/templates/head.php on line 31
+[10-May-2022 10:24:15 America/New_York] PHP Warning:  include_once(): Failed opening '/_/bin/schema.json' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/westcor2/public_html/_/templates/head.php on line 31
+[10-May-2022 10:24:20 America/New_York] PHP Warning:  include_once(/_/bin/schema.json): Failed to open stream: No such file or directory in /home4/westcor2/public_html/_/templates/head.php on line 31
+[10-May-2022 10:24:20 America/New_York] PHP Warning:  include_once(): Failed opening '/_/bin/schema.json' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/westcor2/public_html/_/templates/head.php on line 31
+[31-Jul-2025 02:04:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/jumbo.php:26
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(26): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/jumbo.php on line 26
+[31-Jul-2025 02:04:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/jumbo.php:26
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(26): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/jumbo.php on line 26
+[31-Jul-2025 02:05:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/jumbo.php:26
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(26): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/jumbo.php on line 26
+[31-Jul-2025 02:12:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/jumbo.php:34
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(26): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/jumbo.php on line 34
+[31-Jul-2025 02:15:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/jumbo.php:24
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(26): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/jumbo.php on line 24
+[31-Jul-2025 02:16:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/jumbo.php:24
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(26): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/jumbo.php on line 24
+[31-Jul-2025 02:17:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/jumbo.php:24
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(26): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/jumbo.php on line 24
+[31-Jul-2025 02:17:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/jumbo.php:24
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(26): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/jumbo.php on line 24
+[31-Jul-2025 02:17:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/jumbo.php:24
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(26): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/jumbo.php on line 24
+[31-Jul-2025 02:17:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/jumbo.php:24
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(26): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/jumbo.php on line 24
+[31-Jul-2025 02:17:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/jumbo.php:24
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(26): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/jumbo.php on line 24
+[31-Jul-2025 02:23:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:12
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 12
+[31-Jul-2025 02:23:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:12
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 12
+[31-Jul-2025 02:24:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:12
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 12
+[31-Jul-2025 02:29:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:12
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 12
+[31-Jul-2025 02:30:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:12
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 12
+[31-Jul-2025 02:31:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:12
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 12
+[31-Jul-2025 02:36:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:12
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 12
+[31-Jul-2025 04:59:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:12
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 12
+[31-Jul-2025 05:05:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:12
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 12
+[31-Jul-2025 05:05:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:12
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 12
+[31-Jul-2025 05:10:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:9
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 9
+[31-Jul-2025 05:11:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:9
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 9
+[31-Jul-2025 05:14:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:10
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 10
+[31-Jul-2025 05:15:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:10
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 10
+[31-Jul-2025 05:17:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/jumbo.php:16
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(26): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/jumbo.php on line 16
+[31-Jul-2025 05:19:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:10
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 10
+[31-Jul-2025 05:20:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:10
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 10
+[31-Jul-2025 05:22:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:10
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 10
+[31-Jul-2025 05:22:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:10
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 10
+[31-Jul-2025 05:23:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:10
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 10
+[31-Jul-2025 05:23:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:10
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 10
+[31-Jul-2025 05:23:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:10
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 10
+[31-Jul-2025 05:24:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:10
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 10
+[31-Jul-2025 05:25:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home4/westcor2/public_html/_/templates/front_page/carousal.php:10
+Stack trace:
+#0 /home4/westcor2/public_html/index.php(27): include_once()
+#1 {main}
+  thrown in /home4/westcor2/public_html/_/templates/front_page/carousal.php on line 10
